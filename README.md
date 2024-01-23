@@ -1,4 +1,4 @@
-# ATIVIDADE DE FIXAÇÃO 1 - PATRICK FARIAS
+# Projeto de Fixação - NodeJs com Express
 
 Nesse projeto que desenvolvi com o tema de livros, a intenção é de criar um CRUD que irá receber informações de livros e que terá persistências de dados dentro de um banco de dados (irei utilizar o SQLITE).
 Assim, criei a CRUD utilizando como base os aprendizados tidos em sala de aula de Node com Express e em seguida criei um arquivo ".js" (axios.js) que terá uma mini aplicação que consumirá os dados da API (nisso eu saí um pouco do que fizemos em aula e utilizei alguns conceitos que aprendi em lógica de programação).
