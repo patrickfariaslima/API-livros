@@ -2,7 +2,7 @@ const axios = require("axios");
 const prompt = require("prompt-sync")();
 
 const apiURL =
-  "https://k1ztch1g-3000.brs.devtunnels.ms";
+  "https://k1ztch1g-3000.brs.devtunnels.ms"; //ATUALIZE AQUI SUA URL - POR FAVOR, RETIRAR A '/' FINAL DA URL
 
 async function getAllBooks() {
   try {
